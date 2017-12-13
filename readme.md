@@ -1,3 +1,3 @@
-*Throwable
-**Error
-**Exception
+* Throwable
+* Error
+* Exception
