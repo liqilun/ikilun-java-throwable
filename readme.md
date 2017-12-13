@@ -2,6 +2,7 @@
     * Error
         * VirtualMachineError
             * OutOfMemoryError
+          	* StackOverflowError
     * Exception
         * IOException
         * RuntimeException
